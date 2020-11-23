@@ -19,7 +19,7 @@ U 1 1 5FBC2DAD
 P 5850 1050
 F 0 "J1" V 6015 1030 50  0000 C CNN
 F 1 "Conn_01x21_Female" V 5924 1030 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x21_P2.54mm_Horizontal" H 5850 1050 50  0001 C CNN
+F 2 "" H 5850 1050 50  0001 C CNN
 F 3 "~" H 5850 1050 50  0001 C CNN
 	1    5850 1050
 	0    -1   -1   0   
