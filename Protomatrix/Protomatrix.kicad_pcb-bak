@@ -1347,7 +1347,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5FBCCBB6)
-    (at 355.6 75.40625)
+    (at 511.64625 -2.34625)
     (path /5FC03DEB)
     (fp_text reference MX-Ins1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2075,7 +2075,7 @@
   )
 
   (module MX_Only:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5FBCC9A1)
-    (at 178.59375 76.2)
+    (at 518.54625 78.45375)
     (path /5FC03D58)
     (fp_text reference MX9 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
