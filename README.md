@@ -9,4 +9,4 @@ things to feel complete, and still work on a Pro-Micro. Of Course
 this is meant to work with any prototyping system, but Pro-Micros
 are cheap.
 
-![/ProtomatrixFront.jpg]
+![/ProtomatrixFront.jpg](ProtomatrixFront.jpg)
