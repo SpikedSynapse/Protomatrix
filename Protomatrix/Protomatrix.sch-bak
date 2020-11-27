@@ -14,12 +14,12 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Connector:Conn_01x18_Female J1
+L Connector:Conn_01x20_Female J1
 U 1 1 5FBC2DAD
 P 5650 1050
 F 0 "J1" V 5815 1030 50  0000 C CNN
-F 1 "Conn_01x18_Female" V 5724 1030 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x18_P2.54mm_Vertical" H 5650 1050 50  0001 C CNN
+F 1 "Conn_01x20_Female" V 5724 1030 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical" H 5650 1050 50  0001 C CNN
 F 3 "~" H 5650 1050 50  0001 C CNN
 	1    5650 1050
 	0    -1   -1   0   
@@ -1874,39 +1874,39 @@ Text GLabel 8900 2150 1    50   Input ~ 0
 Col12
 Text GLabel 9450 2150 1    50   Input ~ 0
 Col13
-Text GLabel 5250 1250 3    50   Input ~ 0
-Col0
 Text GLabel 5350 1250 3    50   Input ~ 0
-Col1
+Col0
 Text GLabel 5450 1250 3    50   Input ~ 0
-Col2
+Col1
 Text GLabel 5550 1250 3    50   Input ~ 0
-Col3
+Col2
 Text GLabel 5650 1250 3    50   Input ~ 0
-Col4
+Col3
 Text GLabel 5750 1250 3    50   Input ~ 0
-Col5
+Col4
 Text GLabel 5850 1250 3    50   Input ~ 0
-Col6
+Col5
 Text GLabel 5950 1250 3    50   Input ~ 0
-Col7
+Col6
 Text GLabel 6050 1250 3    50   Input ~ 0
-Col8
+Col7
 Text GLabel 6150 1250 3    50   Input ~ 0
-Col9
+Col8
 Text GLabel 6250 1250 3    50   Input ~ 0
-Col10
+Col9
 Text GLabel 6350 1250 3    50   Input ~ 0
-Col11
+Col10
 Text GLabel 6450 1250 3    50   Input ~ 0
-Col12
+Col11
 Text GLabel 6550 1250 3    50   Input ~ 0
+Col12
+Text GLabel 6650 1250 3    50   Input ~ 0
 Col13
-Text GLabel 4850 1250 3    50   Input ~ 0
+Text GLabel 4750 1250 3    50   Input ~ 0
 Row0
-Text GLabel 4950 1250 3    50   Input ~ 0
+Text GLabel 4850 1250 3    50   Input ~ 0
 Row1
-Text GLabel 5050 1250 3    50   Input ~ 0
+Text GLabel 4950 1250 3    50   Input ~ 0
 Row2
 Text GLabel 5150 1250 3    50   Input ~ 0
 Row4
@@ -2183,4 +2183,6 @@ $EndComp
 Wire Wire Line
 	8900 6050 8900 5150
 Connection ~ 8900 5150
+Text GLabel 5050 1250 3    50   Input ~ 0
+Row3
 $EndSCHEMATC
