@@ -9,4 +9,6 @@ things to feel complete, and still work on a Pro-Micro. Of Course
 this is meant to work with any prototyping system, but Pro-Micros
 are cheap.
 
+As of right now this PCB is untested. I am awaiting prototypes and I update this when i have tested them. 
+
 ![/ProtomatrixFront.jpg](Protomatrix/ProtomatrixFront.jpg)
